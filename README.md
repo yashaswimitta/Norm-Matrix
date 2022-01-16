@@ -22,7 +22,7 @@ b="{:.2f}".format(ans)
 print(b)
 ~~~
 ## Sample Input and Output:
-![GitHub Logo](2norm.png)
+![GitHub Logo](2norm.png.png)
 
 
 ## Result
